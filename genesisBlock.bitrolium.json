@@ -1,0 +1,896 @@
+{
+  "version": 0,
+  "totalAmount": 7000000000000000,
+  "totalFee": 0,
+  "reward": 0,
+  "payloadHash": "d4c7376722cdddd9d2de0b56f9f70b3f957fcb503bf38b71490c4715e17aa6a0",
+  "timestamp": 0,
+  "numberOfTransactions": 52,
+  "payloadLength": 11646,
+  "previousBlock": null,
+  "generatorPublicKey": "035482b2d815999429e22cfd78eaa29c29798bc62c91d599599a5a14911eddb843",
+  "transactions": [
+    {
+      "type": 0,
+      "amount": 7000000000000000,
+      "fee": 0,
+      "recipientId": "LUQDEZWu1qFeWKQHyJyWZcmHrVeSDP44pR",
+      "timestamp": 0,
+      "asset": {},
+      "senderPublicKey": "0268352ec86c2c1ba48c7e61bcc01520ab7e5ca8586f3cd3041bbe607aba2de02b",
+      "signature": "304402207f2b476a78eba20b8f65fb30a6a3b3b57653e2dd14dcff1469fed5b252f6eac002201e022cc7adb2e8d6da67371637272a59b1512a9fe5642a5ef224fe61a4263d3a",
+      "id": "b04643b10804e8951c69cd1ba694c5af81ab555f2976eb15a55a90262efc83a3",
+      "senderId": "La7BcnzCc4Tz72dbDkNYytTJihB3MVySkr"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "02d34ecbf0f7dd80d8ebd57f5e63352fee58a1b348062b88be6bde2a6205a6c124",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_1",
+          "publicKey": "02d34ecbf0f7dd80d8ebd57f5e63352fee58a1b348062b88be6bde2a6205a6c124"
+        }
+      },
+      "signature": "3045022100f56a3dbcaa327c7869d0ce67b357c97ea542352a9cce99e50c45011dca61b17a02200c4c4e57291d392bbaa497dd0bde50b027cc13c273d8ab230e4c977707364065",
+      "id": "cb0db15f19432d526578be4b86e77873a124854f3c649046a13ef52c85744423",
+      "senderId": "Lb6o56TGL9u3PaWcxfgmvJwKWPhpoapniw"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "03814cf1f34b821c5d65abe93cc8dbfff13e4076e141fc7f6c03ca00a3fa44e855",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_3",
+          "publicKey": "03814cf1f34b821c5d65abe93cc8dbfff13e4076e141fc7f6c03ca00a3fa44e855"
+        }
+      },
+      "signature": "3044022004661dc032258d1cf4ec1aa3a891e917584be93f77fa59f812708d58b32faa68022011e42e72e7837f3497278d70eaefb4746418d30afb9206583c2e6f68ef975639",
+      "id": "0701a12b45579bc3bedc39c942aeb237725ee1a9b1c949f13a44db64db4432cc",
+      "senderId": "LRScULrgbvD5enoSYWtexmTkrELhaFf33U"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "0239b8d296c8c547e53cc4aa4625824af8f0f18ae250848408b66dcace9018abeb",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_4",
+          "publicKey": "0239b8d296c8c547e53cc4aa4625824af8f0f18ae250848408b66dcace9018abeb"
+        }
+      },
+      "signature": "3045022100f1d04e3a2edc0d050511f555a2cf440569c71b43c5f1fff2cda115ad196a40a00220313066050604787e73b172366bfee0a5ce1a1f988c4d502297ab1b43df16d076",
+      "id": "c13d86051a1beb62baeb521734315ca4015d7a9b0725582d55031a172649cf66",
+      "senderId": "Lf9kyqzWzNTtCHotWQWsmbGBKTd28NuTmn"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "02b8355ff161cbb365e1b3b63fa5f0213a9fcd785f0a80b15a34a7f4c3b2b5ba60",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_5",
+          "publicKey": "02b8355ff161cbb365e1b3b63fa5f0213a9fcd785f0a80b15a34a7f4c3b2b5ba60"
+        }
+      },
+      "signature": "30440220735b367e240f39390a7fd12e2f71f6071aadcc775e3b60db0d6a12cb59cc1686022039a8fac8806e420cd4c3b6c85b506bee04520dac2ca65192699e85891f858572",
+      "id": "afd80c7bbed4bf18fe6b69bb32c05429ea9a206bc6daa4dbd7e1564a58bb2218",
+      "senderId": "Lcr3dddCVMev1z4vNZXSTfd7JfxvjxroU1"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "036612e0d7962e109c53c498b4a9b78ad1efd1d60b36eea55c65e18197b0e05b9a",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_6",
+          "publicKey": "036612e0d7962e109c53c498b4a9b78ad1efd1d60b36eea55c65e18197b0e05b9a"
+        }
+      },
+      "signature": "30440220607d0c915d2f21791aeede396d1931d851ab54db2d7f305e6d4c89e89bfdb0ba022052a4436b2fe64fde22242342dc1ef7092839e72b39493a2f5ace2d3b08055905",
+      "id": "a0bd126007cdc6d315595f0bbd81e2db3f3aa990b5d2ef08d790c30dd7922b9d",
+      "senderId": "LU9xSsAJ3P2fmQ8z1puaJTX3JHMUmQZdUR"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "039d4e0a3ceba44bce27952f54b874a1a1d198415336d32d9c5d62107c0448f38f",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_7",
+          "publicKey": "039d4e0a3ceba44bce27952f54b874a1a1d198415336d32d9c5d62107c0448f38f"
+        }
+      },
+      "signature": "304402205e08effe95f5465ab4d7c45956d49fb115edc69aa7938ee6ebe94e3da5677a4b022014d75f87b1555201495fdce4d916abff153965502753318997c247fe54e3fc1e",
+      "id": "796ffccccb8c60e48723b87168e69dab9033b6501b0c3e9549a68e2d34937ee3",
+      "senderId": "LUyGtEmPvKNL8a54rFC2yoizEPG1UD1ecN"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "0213ecff777869c671a2dc16762183eee2c15050557e05c6bcbd8a65338f36ce5b",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_8",
+          "publicKey": "0213ecff777869c671a2dc16762183eee2c15050557e05c6bcbd8a65338f36ce5b"
+        }
+      },
+      "signature": "30450221009d68af849fd4668d1450cedc419e472a8e74b550b4706e552d18341d0b221db802205a103a7f8a2a2707be927c56288ab0f4b3be542b09b20e1f46d2a8b610b7457e",
+      "id": "57fa3efe60edff3898b808c8f26b8a1c9001e9fde71baf87f2f7be2d5a6a47fb",
+      "senderId": "LSxFt5HKJ5nYGNwLZDw3269rfD8WYBg1hU"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "02d8032b9c99848e489ce178be8cc4a38f6d27186d30325488a930b4bda6606e3a",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_9",
+          "publicKey": "02d8032b9c99848e489ce178be8cc4a38f6d27186d30325488a930b4bda6606e3a"
+        }
+      },
+      "signature": "3045022100c7e9a71ae6449859b7a7799e2dfd86547040fb4b57ce54af36716ea95fcf34de02201d58f7b795513d1f8027c320b30e2d7715b6721b1252e0da6552bde31f2a5cb7",
+      "id": "6aa02d10508670e67098dca0cc1ac1756893ee0626f6d3ee1ba9c291eaec4b50",
+      "senderId": "LWRr4opxLVBdU8GZNbAnGK66TCFSZoVuAt"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "039d4babcba8e38b006b925ae8245dcd03550c952b804cb145aab0f499c85eb329",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_10",
+          "publicKey": "039d4babcba8e38b006b925ae8245dcd03550c952b804cb145aab0f499c85eb329"
+        }
+      },
+      "signature": "30440220547cf01b72f91c2e882efcaf021bd1191c2c5716161abaa9e237fc2805a4c41c0220568e1ebd19eae33bf1b1b28271bc6809beb68bc08657bf689c13b3d7539a20de",
+      "id": "6b051d62820342f63e6ef4556d1a302355a41edb627d918bffacba459272f8f0",
+      "senderId": "LhfQj45romF2aqqSAUgwGRCj5Vihst2NAW"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "02a523a9a6dd0baa2f59d166db81b688ad7685c2d3d68dcc59e66bb30c5f732239",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_11",
+          "publicKey": "02a523a9a6dd0baa2f59d166db81b688ad7685c2d3d68dcc59e66bb30c5f732239"
+        }
+      },
+      "signature": "304402204193d07005e6cfd8330d1881c7e5f62f2afb32fd5cd659678fc96ac03d7d748b02201438b2158903dc1f2c570a82f983851029ef8f7314822d9d8792e771d9831218",
+      "id": "56e70477e2fdc983485f7d2189b28d563746d5adf1f331bc200ab669c2c7798e",
+      "senderId": "LPN2zRzp3xaUen6WdgHMZeh2WhUBc8yAiV"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "0324718dfb4651c1b42c9a705561b817f34d05dc22ba2e66fc894ae798032d54d8",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_12",
+          "publicKey": "0324718dfb4651c1b42c9a705561b817f34d05dc22ba2e66fc894ae798032d54d8"
+        }
+      },
+      "signature": "30450221008484ee7791935ad4587169fb019a98e3a2cb80af145e4e1d301506c8254919c202201090b64d553bfb0decc5801e5ec455adff68bdff71e13f7e2f5e53f3610b28a0",
+      "id": "2cda31abd3535ed6aadbce3bd49834f7fd3be60d0c03c5c6f5043fa2c9616da8",
+      "senderId": "LN853feWAVrfJEo3qRyMAX28czvp3i1iv9"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "03409cdfa7d2d39c02a4c3094fde5adf34b6addcd9d0f7e32a9e7c2bf0201ed1ea",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_13",
+          "publicKey": "03409cdfa7d2d39c02a4c3094fde5adf34b6addcd9d0f7e32a9e7c2bf0201ed1ea"
+        }
+      },
+      "signature": "3044022066913838b8c78c6ce4bde3782b7df8fe1a6bb6221e6b937335ba52a44d65195902207f827b45dd67c30a6d8762228c1fcb4f77a1d21ff4aa542539d1a830e0faf00d",
+      "id": "5eaf111550845033fe8279ead9a07772f16861eee473bda1198e362d0a7c453b",
+      "senderId": "LZ6qC2fK2eqG9sNrWkH1KzwwozJi2yubGr"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "024a3dc41f8e99fdaf2f26c427dbf87709ea52d7e61c25c572faa3239bb00e54c7",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_14",
+          "publicKey": "024a3dc41f8e99fdaf2f26c427dbf87709ea52d7e61c25c572faa3239bb00e54c7"
+        }
+      },
+      "signature": "3044022022588ab0a42b5d4e9dda083b8d7ddc3e38eedddce565e77be86fa770b7d097c8022034b50b336c1909c0f004924e46627ce5ef63af16d5c2abe4185270c884d25b86",
+      "id": "67510c7c11fb102287810856059ffa091cd2654a064eb97f5fd3116ae5381ce6",
+      "senderId": "LdaMAaE3Ky1bFmqDTGHFB8zUJrfzMXqhad"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "02eb8159c383780db67a3d90fe41ddaf1b6438f7c573e449eb47c2bd22e583a09d",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_15",
+          "publicKey": "02eb8159c383780db67a3d90fe41ddaf1b6438f7c573e449eb47c2bd22e583a09d"
+        }
+      },
+      "signature": "30450221009028989c2ca3d6350bc4baccbbc747ca0616f5e0aa4be1b69787a8a9c2cae121022012f6d5b509d7eafa2c8fd01e5574c4a08c480aee46e0c3672ae5d6ea39e24aee",
+      "id": "9e4d910eda3e77614d04e134e145b687e288348d76bf44f7fe34943a560e825c",
+      "senderId": "LgB1ZJgsVu62UHnDEBaUGUQpgs9Fbuzhsi"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "03eefe8a8c1fb62366394c1772be3ae2de5fbc2da6ac04ad1878210d6f370fce3e",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_16",
+          "publicKey": "03eefe8a8c1fb62366394c1772be3ae2de5fbc2da6ac04ad1878210d6f370fce3e"
+        }
+      },
+      "signature": "3045022100c0b5b705734e5deca55f83586863b5fbbaac74f6a5645140bff78456eb5a24f5022032832efcc517ec7f307230a614efdf26a73561b4c00a5b7e02b6ae30b4d5b7ac",
+      "id": "fc33a6b37f2cb03931488bad0840c595ad4319bd917a747a9441d46144c0030e",
+      "senderId": "LUmPU6aQZFFihsPxJZXFM44gdq51UDYEd1"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "03a6c0cf57ba0df96c82c1387c115a9413d3513dcfc0ee01514896196e1c6dc577",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_17",
+          "publicKey": "03a6c0cf57ba0df96c82c1387c115a9413d3513dcfc0ee01514896196e1c6dc577"
+        }
+      },
+      "signature": "3045022100d311588416c60f8809316b9baf7d01103403e0f3f8b30b3f41e6bf18f305964402200ff44ab9f9642c24aef4645c063d23b72ad39bffdc0830d1299971b94bfd21ac",
+      "id": "20e8583124d14f850a2fb6e8b59c4a81a16465b21a64223a69950a29daab91b3",
+      "senderId": "LZ7d4K16LNscDVfuLfNxsR2iD9be3PQcaH"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "034cd602ee84b6f85c765efe948a932ef9c4c86a65ff619d218cccd27579a86482",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_18",
+          "publicKey": "034cd602ee84b6f85c765efe948a932ef9c4c86a65ff619d218cccd27579a86482"
+        }
+      },
+      "signature": "30440220358d7c2e8a0da5c8fffd0b74029d61924c281acfa3b92581000c62b3facc854f022040c2545f9bded821519614e193e6c9361babb712c284c09ed68336659df57bfc",
+      "id": "fc062085ae7d6fc7cb3350feb1fbbd4471948e08ac7e8cb638c83a12bdd2a57a",
+      "senderId": "LUGTCHcEG4qA2ggSkLGK67uuVQFiDKoP4M"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "035de9d2e4d4d4af858525ac88f44150841420380ce9f7b51df28adecf0bb73990",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_19",
+          "publicKey": "035de9d2e4d4d4af858525ac88f44150841420380ce9f7b51df28adecf0bb73990"
+        }
+      },
+      "signature": "3045022100ec0f66b22380c03089014db84669be932474a200a98dca245dc7287c9f7a2aad02205d1c9fe0282b9d6c12c30415e063697dac890e1fb61d9f57b2e96b0bd8dd9181",
+      "id": "6b45332c53bcab44876f468bdb6fb73faef47e990e7bd5d907960a2778ffb5ec",
+      "senderId": "LdRKG4YtrporHsSJjDcSdQBQL8rLEDCqbq"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "03a75fa2b3a651a3335f5fb2e13e914238c2c853b605603bfc30aa689809088ed5",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_20",
+          "publicKey": "03a75fa2b3a651a3335f5fb2e13e914238c2c853b605603bfc30aa689809088ed5"
+        }
+      },
+      "signature": "3045022100a6f4a9bebd10fab89d86142144fadc3a07742dd2dcddafb7b5dbd010b1fcd05d022005effa4996dfacfec6374709cb70e9716f95c57402103ac1942ccff0683d7815",
+      "id": "716377694a7d10e40a2c33590feff583a06a8c1cc85cf1914f5a34b9dd6a593b",
+      "senderId": "LZF9eQ1b27kiZgRVtePsn5ofnmas8m7mzo"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "03731966e190d4c0b3a3c939a031db3e6fda3ff0c46ef03c842cb89008b06dc688",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_21",
+          "publicKey": "03731966e190d4c0b3a3c939a031db3e6fda3ff0c46ef03c842cb89008b06dc688"
+        }
+      },
+      "signature": "3044022016703f95d3a579ae8b24766a93137114dacf5d1715d76a5ec7f30eab6f2187a802204ba4b8207ade80b4684867bc34000ccbb051fbc09a1c481751339201fa4ac2fb",
+      "id": "ec5ddf3968149c4ea891270a5c04c2486554be14c8ede20becbeea681fb9f6d6",
+      "senderId": "LWfXnfL2NvcXuCgK62HRwush5nNwHGoyFU"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "024a4d291692bcf41ed14eb75ff9f1475d5467489cc5f42ecafec8b218ab5394c8",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_22",
+          "publicKey": "024a4d291692bcf41ed14eb75ff9f1475d5467489cc5f42ecafec8b218ab5394c8"
+        }
+      },
+      "signature": "30450221008188a97612dde248a60d79a2261928e1e7909e66dc500ac6aaad03069ac4064c02205751ffe747c8b4b4033632bea9d35aa02ab59f1cb3d2ea97282cfa8bbcbe595d",
+      "id": "57cb3d7787dbdc27ae38d1a35ded7e6c990dc9c5bb30b8c07fb8c7bdbfa169d7",
+      "senderId": "LNexTWBErKBCTE3Zzb2CosakmHzroK37Vx"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "03eb088e9be9009d143bd77a9e13fb08b307f619260d95a852957a4fa583ea20bf",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_23",
+          "publicKey": "03eb088e9be9009d143bd77a9e13fb08b307f619260d95a852957a4fa583ea20bf"
+        }
+      },
+      "signature": "304402206f59dd6539df5bca9bf2febc7a53e635ceab4ff8e8934299e1e5c066dcac8419022052369efeaf2a4d2f8fc0fd0c563593343178b831ce1d6021a1be9cb52b72028d",
+      "id": "d9815e9ab59e47ba8beaad6a81866418650e3e4bf715eb9db76558837cb0e297",
+      "senderId": "LWgHMXQN7AAkDVBugWmPU32KZsjksMi5Au"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "0310e90ca2e44471465eacadb76dba305c93f093d3777bd6680c9d270c043e4164",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_24",
+          "publicKey": "0310e90ca2e44471465eacadb76dba305c93f093d3777bd6680c9d270c043e4164"
+        }
+      },
+      "signature": "3044022003562f8845b12dd2329b42eaf6c9351b055a95e06e05a061286a5d859f6231ef022018692da004ea7fcf4f604f50a0b5220cde782728e36e8ffa2f3d84ff28ae26ac",
+      "id": "a35f4137d437cf5f90670410796441d36450ba958ce8b30c8b569f5484f9371d",
+      "senderId": "LRXhwUYukyecGJHW64FAoGDSiE2LUhoCvg"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "0328484d98433dbffccebda135c734b0344bee74f55b4a72bcde01864778f40601",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_25",
+          "publicKey": "0328484d98433dbffccebda135c734b0344bee74f55b4a72bcde01864778f40601"
+        }
+      },
+      "signature": "304402206c354b9bc6d69fe4455ff93da5544724d6a0d87514c7b80bf4308fc212bb85cd02202ec3835e8dd1a65099a2373575a7522ac5da2269c62989b1b5ceba7f50552145",
+      "id": "d3a29dad196cce788f1c0ea1a1db812e6ba86263e30c885233f64b46195a2a51",
+      "senderId": "LccLtz38iTTCQCg2dS67tEDaWz7eNw4iNg"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "022a59c4c6c497378dfbd0c651b7f945fafce197195f09e82f189205b520e3fdc1",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_26",
+          "publicKey": "022a59c4c6c497378dfbd0c651b7f945fafce197195f09e82f189205b520e3fdc1"
+        }
+      },
+      "signature": "3045022100e44b50ba8a38aa1aca9945bd3927e3b0a43a628a182d30f397b607b0b9f63eba02201259f628401f726b39d23465fcfc97e39084a6d0dd76384979f7040f3c79bc42",
+      "id": "1a2235a90470f514ef2a4ac15ca0274fb056582964e244d1dc6e4073885e7dc1",
+      "senderId": "LXkWGuFkSd7YznMGRfbrrnN2bfAfvptAdz"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "0339aa0308c94f5826a5c9ca6f6576c724b1aed39b7abb60f78141198eaa4313a3",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_2",
+          "publicKey": "0339aa0308c94f5826a5c9ca6f6576c724b1aed39b7abb60f78141198eaa4313a3"
+        }
+      },
+      "signature": "3045022100e9734ddf429904f650c255000510a7a36b00f1aae0a80ddd3d87e859a462587102203ac0f3556731c1dd764025d39d8e86e4bf2b3e53d8daf3a85b3c4a9c23b648b1",
+      "id": "3737b38c0563649b639ee937b22dbc1ffb12706747c80789429e9f89c215fb54",
+      "senderId": "LiVsUL5MumsKUBqygRXWPFU6WenzcHXuiy"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "032a0996408c9bd54c4d34ed32a3d288b91d33cb3763e504c2d4f3fc67df0aaa48",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_28",
+          "publicKey": "032a0996408c9bd54c4d34ed32a3d288b91d33cb3763e504c2d4f3fc67df0aaa48"
+        }
+      },
+      "signature": "304402205f5abd18a3a09605f02bc74055a68b817420bbfe62dc60d36c6a03fcdcefeb6c022044642db2d751868dca0c56e80a7907f993d76fddd98a60ca1c33cc323ac17b98",
+      "id": "7f240126507b193eb222f9ffeb8d085b0162e82c34b8b5b9998bd4fde0b29894",
+      "senderId": "LLEz5YafXZB1Jyn3DSRJFyyfhKKNGk4i23"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "0252baed9f02f06e19107262e21b4b9fa06205a751dc0a1943d4eaea3bfbd30778",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_29",
+          "publicKey": "0252baed9f02f06e19107262e21b4b9fa06205a751dc0a1943d4eaea3bfbd30778"
+        }
+      },
+      "signature": "3045022100b9ba58b48bf4b58fb1d1d202ac20fc69dbec52c36d4f1bf5a350e771b56bbc4c0220605293f9a119a882e2edef3aec6e2c5f6ecc657dacb28728c8522f2729fd4c86",
+      "id": "4dc92d12bae8bd883e5a6aff22969a58469659f4701370d2720fe22210232620",
+      "senderId": "LXCnsUTHavcH9jtRMJh95oUNKqVv6twbeL"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "02d25678f2736274afead880ebd01330bcf0a2a1eb815d997363efedfcde2c5142",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_30",
+          "publicKey": "02d25678f2736274afead880ebd01330bcf0a2a1eb815d997363efedfcde2c5142"
+        }
+      },
+      "signature": "3045022100a5df8cc9ae095ef2da39e0f5fc3936354b989847145b1232b28db35093897eb8022010706357cda6f5f6394dee3a125e9b4aa65e1d66da1628d210c6ad5abd249e74",
+      "id": "0583d701412d9a37dda08d41a03f67a69d823aeda1ef68e3777f0edbbb4a5276",
+      "senderId": "LgFzDZSiybgX7P49zf8azPSieaDQjTJRvP"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "030514122a3143f4d7c6fe9de6870039aa8021960206b19f8c46b7c13302669215",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_31",
+          "publicKey": "030514122a3143f4d7c6fe9de6870039aa8021960206b19f8c46b7c13302669215"
+        }
+      },
+      "signature": "3045022100bcbaa51b69286788f3bb5bd1b06cb2ef50e39945143852ce6f7dee08d9c93d1502203ed4ed4b408f70a79728c7fa0090ad7c4433a3877463a03996f23f7bf0b25270",
+      "id": "f9851b2995778ed154fbc5598c1c63e6530c0fca8c74af9767c99b7464dfe7fa",
+      "senderId": "LQDKh7ZM2oy4fCygeS7UYD3APwiByT3fAw"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "034cc9dcaf1be7c8053477deb4c565b80098f22563ed8081c2f4aa80b7c7c57a8c",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_32",
+          "publicKey": "034cc9dcaf1be7c8053477deb4c565b80098f22563ed8081c2f4aa80b7c7c57a8c"
+        }
+      },
+      "signature": "304402204b92f41fede2d5ff001ef071c6f95b8619f89e699277afc52d393c3e0168a0c30220648c27cbe2127063f1d43892c132aa4aee0ef78c515db527a1accb106998dafb",
+      "id": "03a1e06a554bb601324d38706a6d16854bd424aed22a6ae212f4e73a9c0fbc16",
+      "senderId": "LNCj3wk3HyRCzZD1dUTB4nYP268vyGzCvr"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "0259f231f7b6e1a48de12d1780e35771de00a27a3930d2d5d8386b50f12ed08fda",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_33",
+          "publicKey": "0259f231f7b6e1a48de12d1780e35771de00a27a3930d2d5d8386b50f12ed08fda"
+        }
+      },
+      "signature": "30440220663b7e86cbc454925f6a6e6e5124d2925b2071d916c610ecc7c256774e99ef21022012c9c95118cf1db39a925bb04588977893ee71a7b384c87822af77abdd50e3d2",
+      "id": "0daef3c9d53bf96a7ca523ef1b76239516914468e87964dcfea281ecb0db6ab1",
+      "senderId": "LfzCLiqSFK4TGs4BTM35VuFJfVzMShGZok"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "031d993fd894b70d58971f1a89e4fb872b0c78230f720b28aa0afba7115e7f02cb",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_34",
+          "publicKey": "031d993fd894b70d58971f1a89e4fb872b0c78230f720b28aa0afba7115e7f02cb"
+        }
+      },
+      "signature": "304402206e5907cb731bb2718ea31142a23c2a31e9ef4a79f1042b6e877ec3f754f8dd5302205ff30599444cf4eee6fa717d21fda2332de1b013fb1f304be77e7e012fd23849",
+      "id": "70c6086d15787e4787dc31847e20d2a55f3b8bdbcab8f36f261e2ba6f4fdfc69",
+      "senderId": "LhAbdZ2hSzUMN7bgmFpKLF69xTE4PtL1Ua"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "039f4eb5af724a8470143d52c8ce6da3608c71de9abb5999f262bf9e4014e38a0a",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_35",
+          "publicKey": "039f4eb5af724a8470143d52c8ce6da3608c71de9abb5999f262bf9e4014e38a0a"
+        }
+      },
+      "signature": "3045022100dbc28b17217d915914ef41b3ce6aca7860827690c31ff1b5a977a0c498a87b5f02203850ce228c329fcc4b3476813a5adbc6864f7183686c148f4ea16aecbe0d94cd",
+      "id": "b6638705354d5648b4d7838a737091182a3375e15243704666b622c7df49f5d5",
+      "senderId": "LaANdG3SRFS9d96619JB8GWCKkLonEXV3C"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "03b263d262a993383e26261e883532d6e4930cc2be8cf84e957330293353d80ee4",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_36",
+          "publicKey": "03b263d262a993383e26261e883532d6e4930cc2be8cf84e957330293353d80ee4"
+        }
+      },
+      "signature": "3044022036ba2713d5cc49bad6279eb7166daa96c5b0084c1789567c2a5a48eba26dde4302200fcae86ba0aa0059797bc677157504beed5338840db0d2956d9c1683bf965e81",
+      "id": "50680769f9db1fc4111af342b418e5cd089b69922f715eb78ff60e614ce31f74",
+      "senderId": "Lc5875BynokKrqzuP6vgXzp21K3w2vChcv"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "027952c2c43a8a240ebb1cd7d5751cfe1f77bbafdcd144d3c71bb1816ac9fa2c1c",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_37",
+          "publicKey": "027952c2c43a8a240ebb1cd7d5751cfe1f77bbafdcd144d3c71bb1816ac9fa2c1c"
+        }
+      },
+      "signature": "304402206d43c5616eb4f2b939c0e08bd787ed8d4b976a071eaeda3210db845ac2da5826022051d19b5dfe5c7ebe2e2d202a127b41b01d081e510ce20030e7ad8fef7c38207a",
+      "id": "7ce1cc6c525c3895eff887c5905c9cd956c1a695698adfb93152733f1fd15850",
+      "senderId": "LNW2BzoF2zfqtacNXakfc5kb6Vj5AUVC8G"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "03ef6ea84436fb193c1e8eb3e242716375b43fca642b48a90bc014f416d6716c27",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_38",
+          "publicKey": "03ef6ea84436fb193c1e8eb3e242716375b43fca642b48a90bc014f416d6716c27"
+        }
+      },
+      "signature": "3045022100ddbd38b24cecc8c0cdd3e49ce5a2d0eb6cae1dbc6c9122d5a2efecce740bf64f02207bd764970b2d629156cefbfef8c307358a8dc7787a401c650c9c5ecd9c951758",
+      "id": "4cc0b6e448a68ab9c91173fbfa457ce7ff961497e5d08417df6761753f267119",
+      "senderId": "LfhCrSUPEdedEkSHkAKmfmSceJD5WsTqiA"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "0248eeb1b485a44c45f17b1b43c08917eb18cccf0f8071ce8341042741ccf29c1b",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_39",
+          "publicKey": "0248eeb1b485a44c45f17b1b43c08917eb18cccf0f8071ce8341042741ccf29c1b"
+        }
+      },
+      "signature": "304402205ff1512947b27fba6dc39e6cb7ccd4b47322ed8be5d9f9d825615acd32d4835b0220011fbc3c54f86f021dfb0600e074a7d1d4e2a164b39563368cb2c56d8d568d3b",
+      "id": "37bc1338c1f9cbe053ec3823fe47a19ec8857637edd9e0d903e85dd1fe635917",
+      "senderId": "LQnJ1aTGbEewL8D2RNTr4aD7n91kuMFAh5"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "03f7faa1a9d1857d236ad352fe74304dfcca603c9dca0c91b5417203b13ee9aa0b",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_40",
+          "publicKey": "03f7faa1a9d1857d236ad352fe74304dfcca603c9dca0c91b5417203b13ee9aa0b"
+        }
+      },
+      "signature": "304402207d37aa569404b0f6cada03dc790ef401912bade302b461b0720cd2fca158fc2e0220737d8e17b42eb7cd48a5e698ab354c7ef57794f20e74908333a7f4ebd46fe3d8",
+      "id": "a818396a618583302b674a34602e0da4f149fb290564aa973bb2f3385a371875",
+      "senderId": "LKketxK7tNuFWvjK19czWLNkRpLSz4KXTH"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "0382ccd1575092d2230fcc40d0fcba7a7cde87c184240693f407458cd26c27fe67",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_41",
+          "publicKey": "0382ccd1575092d2230fcc40d0fcba7a7cde87c184240693f407458cd26c27fe67"
+        }
+      },
+      "signature": "304402207042ce25d658334c0600b8fccdf08631c0368d73674e93daf0e7910b61a68dee02204eacfffefadf48e01d850f8f9525401641227dba7bb330615dd307be0ac2ace5",
+      "id": "e2e6e340b65fc43a6655fd32e01928cc118e47370ca377b2ea8327a20615d16a",
+      "senderId": "LfkKadMh6w6PErKYvbdYKevVG87NxCjyJW"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "031bf713c2dabb33b2f791fb2636510393460fedda3ca052b9e2b87d35534f3b51",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_42",
+          "publicKey": "031bf713c2dabb33b2f791fb2636510393460fedda3ca052b9e2b87d35534f3b51"
+        }
+      },
+      "signature": "3044022065b401b96be48e6223bd1381e90ac418ea05e68d4e2f4d4b39f093787260681b022041b46c8e59d05fa87d2eeadd91241993b444cca196a486fb3232ec43d7817995",
+      "id": "5a6cc2865da501c789b81f9db9e9fcf4309cea6a52edc93dd3f28fab4a018865",
+      "senderId": "Lg4pnnrECLFDmxXY1JdpUF7V5hy7ajYQoS"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "02ac28ba25d7aa0000fc2bbc046a085836606fb6b6994025e623cac3ca47c81b28",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_43",
+          "publicKey": "02ac28ba25d7aa0000fc2bbc046a085836606fb6b6994025e623cac3ca47c81b28"
+        }
+      },
+      "signature": "3045022100f7b05e2f96146c9db72603372d212fcb73f2d7faeda3b428b4482e36d6aa0bb1022059a970b0d3f8eb8c113c66c895c788e3501a05cd20d7eaa1de0310a914fddbaa",
+      "id": "f086a873fb1f568958c9bd54497c1d7c97d473e3b23c5be7525d4e90209b7eda",
+      "senderId": "LMFzQo3AyKAQNPBTc6ryHnynY7xBfDAEBe"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "025dee05e8bf2140b3f2450e86d604aca9b22241409f1a5aeeeae2f8de4751cf6c",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_44",
+          "publicKey": "025dee05e8bf2140b3f2450e86d604aca9b22241409f1a5aeeeae2f8de4751cf6c"
+        }
+      },
+      "signature": "3045022100cba102ee63aba350e128805be819e454d6fa0440f64e96c477da3b61a52fd9870220621c2a4a26a9276a13a356901eb811a4454efd0ec47b4f1f7b80f0caf1ea84f4",
+      "id": "b5483352ff3e36a3ccf128bc0083794776dde07b012d17a0eec0a03ad05f4a51",
+      "senderId": "LXnzksJb7Hezw6apMTc5DJ4WJaHZPQgysc"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "026b3ee3e8b61676be97d76d75c9f3c726518ded8c32e9f72fa10db984b2ec0a93",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_45",
+          "publicKey": "026b3ee3e8b61676be97d76d75c9f3c726518ded8c32e9f72fa10db984b2ec0a93"
+        }
+      },
+      "signature": "30440220540b0dac5aabbbaafe9c38e397a2d7702f22c6e1185c6a31ba7ccf63adf2cb79022015ec3adba6674905101e73318bd1ad10373605da80999c02916c4bcfb59c4c2a",
+      "id": "a233dc50cabe1711b0565a74f87b39dd4e1c511f001ba0ceff444e7a006e83e2",
+      "senderId": "LeffmaSAv5B99JgKCbsiyM2FaEMzWNAQCi"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "0240f151e788efc4ce388235a826d01070d053369f219d9444582ba5b75a67eec8",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_46",
+          "publicKey": "0240f151e788efc4ce388235a826d01070d053369f219d9444582ba5b75a67eec8"
+        }
+      },
+      "signature": "304402200ca6f9f4b2f2b93a0c6f9da996102548ed851af08719ecf0af9c248f83c8725a0220130837e2722451998c08a7be477ebb136870d2ff50f0d33788bd0ba214153fbc",
+      "id": "0c1707d0d99df3971874b9ec75167ac0492cdd6cd47c5ff1682f3bc78ad5d1a6",
+      "senderId": "LQgowjPKAwG56d5rycpPysM34C5DRSvdqd"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "0376b19d6875f44af02a9fe8eefe2ef06a7176209efc3751f03268d47ce063496b",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_47",
+          "publicKey": "0376b19d6875f44af02a9fe8eefe2ef06a7176209efc3751f03268d47ce063496b"
+        }
+      },
+      "signature": "304402207a5e3bcd8b25345230685c4bf2f6b2ed1bc3d11bd5544f24ad646f800fe6d8b1022018f5a62fe1873e48c8c26add897243436b33404c3a9900b48be4dd3eccc5be40",
+      "id": "7b3717615d9214e700b533252b7f1ad9dac773d9225b85a13136111c54104934",
+      "senderId": "Ld54Y7aGrAt5bcDracoaXbK9jHc8M1nU7J"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "030cbc527af4bee8dc3173df4406baf64522ea5c6d74c9104df8ead9fef6053b30",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_48",
+          "publicKey": "030cbc527af4bee8dc3173df4406baf64522ea5c6d74c9104df8ead9fef6053b30"
+        }
+      },
+      "signature": "3044022078f3f9c3703c0f1aeb74b9c4b393163dd6ab42122885c4a58fcedecf8cb34d3402200d3d08dd37957e2d56dc3a8e7093a773da06bb9541310c992cd12ec6627fd5ac",
+      "id": "2228e5413bc1fed095a08d0e3434f61a1f1ec0ad51f4fc3351dbd13378958dc8",
+      "senderId": "LUbKrT3MNeowP6L1tK6vWQnGcE3U73u2cg"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "03894d4cd1d392abaf359ff55f42cabb7f082f1295b2bc866dd6003823a966d580",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_49",
+          "publicKey": "03894d4cd1d392abaf359ff55f42cabb7f082f1295b2bc866dd6003823a966d580"
+        }
+      },
+      "signature": "3045022100d70f2a03ace86b1e70dbcf60cb65fb5b828bb943213746a8d5334a87178abe8402203fb553646c024fc3268be7ea527948cca1b136f5f8fc88c06d91b6a49b42a0a6",
+      "id": "527add3980cd918333a3f09c087e2beeb35f5160fef92f1556ef67a6788fdb32",
+      "senderId": "LUAdTU6B6Xxt4i7cNppiqgZ5L4Qoppchrm"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "0365e4f3fcb923b661e3fa5b62e2e089af1d19912dd631eb2d4c420a938bc94562",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_50",
+          "publicKey": "0365e4f3fcb923b661e3fa5b62e2e089af1d19912dd631eb2d4c420a938bc94562"
+        }
+      },
+      "signature": "304402200a0ced314a6d795a439d7895949b73f045e26ae199f647430de005bdc6a3f03b022027f9bbce5484f16c828402000166af4b8398f6e5595b437572680273c8fc1f4b",
+      "id": "3746e56cdcf50cc00683906bf433198e070b4671ae515510f6336ffcd15b5af7",
+      "senderId": "LSWw4nSHyWgwLzEc2zfySB7svZNcwQDwpz"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "0252d24a72e4cb57b6b8114e84d3e2e9dc3a9abfa46ba86b01a130f8c680bec834",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_51",
+          "publicKey": "0252d24a72e4cb57b6b8114e84d3e2e9dc3a9abfa46ba86b01a130f8c680bec834"
+        }
+      },
+      "signature": "304402200c3a5718cb34284e38ad4a0fea05838d4fee8a6a87e8a002d59fe048b868b15e02204ec71c4709d04471c01e96215bde7d2035f34184cadb4a43f0644acd727beac6",
+      "id": "619a4fd84b329c128ac76d92482c543d8e009c4b6dd4c3478ac2824652a1bb45",
+      "senderId": "LU4WFoL27Qm1wvb5M84mstKceX4MNqu64e"
+    },
+    {
+      "type": 2,
+      "amount": 0,
+      "fee": 0,
+      "recipientId": null,
+      "senderPublicKey": "03a666450f07b228c6ec6ab05bfef9fa6e3e01162488e74b3fece092af167a18b6",
+      "timestamp": 0,
+      "asset": {
+        "delegate": {
+          "username": "BitroliumGEN_27",
+          "publicKey": "03a666450f07b228c6ec6ab05bfef9fa6e3e01162488e74b3fece092af167a18b6"
+        }
+      },
+      "signature": "3045022100d6f33e5c2740a5feb0dc523ef013bae2e5c6f7e1e1b7f418e0193020ce2bafcd02203735d91741db1b9b6411aa2bfafb8ab7933d0fdf19ca2b9fb4a645956e7d6562",
+      "id": "fc712c21018839f98900154ed18f51fa4f9c9e8aa024f9deaf4602bd0096cb08",
+      "senderId": "LLStTetmKEPxoUQAXWRVwY6uQyuz8qF8Hw"
+    }
+  ],
+  "height": 1,
+  "id": "1848631195920997386",
+  "blockSignature": "304402206fbb7f9519710b0007e236b78e15bed5a01a761719623ff53dbc2d79ef03992b02206dad23a37a9134cebbfa1367f30192c0641b6b0c16d1080b6fb9640e903dbf15"
+}
