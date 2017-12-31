@@ -72,7 +72,7 @@ npm install
 To launch Bitrolium  :
 ```
  
-
+```
 
 ## Authors
 - Bitrolium Development Team <develop@bitrolium.com>
