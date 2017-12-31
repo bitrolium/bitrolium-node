@@ -64,14 +64,22 @@ cd bitrolium-node
 
 Install node modules:
 ```
-npm install libpq secp256k1
+npm install forever -g
+npm install grunt-cli -g
+npm install libpq
+npm install secp256k1
+npm install bindings
 npm install
+
 ```
 
 ## Launch
 To launch Bitrolium  :
 ```
- 
+createdb bitrolium
+sudo -u postgres psql -c "CREATE USER $USER WITH PASSWORD '****' CREATEDB;" >&- 2>&-
+forever start app.js --config config.bitrolium.autoforging.json --genesis genesisBlock.bitrolium.json
+
 ```
 
 ## Authors
