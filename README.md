@@ -78,7 +78,7 @@ To launch Bitrolium  :
 ```
 createdb bitrolium
 sudo -u postgres psql -c "CREATE USER $USER WITH PASSWORD '****' CREATEDB;" >&- 2>&-
-forever start app.js --config config.bitrolium.autoforging.json --genesis genesisBlock.bitrolium.json
+forever start app.js --config config.bitrolium.json --genesis genesisBlock.bitrolium.json
 
 ```
 
